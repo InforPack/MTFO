@@ -9,3 +9,4 @@ Sitemap MTFO
 - MTFO API http://api.mtfo.fr<br>
 - MTFO Weather http://www.mtfo.fr/weather<br>
 - MTFO Library http://www.mtfo.fr/library
+- MTFO Blog http://www.mtfo.fr/blog
