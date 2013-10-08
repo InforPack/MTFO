@@ -8,3 +8,4 @@ Sitemap MTFO
 - MTFO Seo / Review http://www.mtfo.fr/seo/review<br>
 - MTFO API http://api.mtfo.fr<br>
 - MTFO Weather http://www.mtfo.fr/weather<br>
+- MTFO Library http://www.mtfo.fr/library
